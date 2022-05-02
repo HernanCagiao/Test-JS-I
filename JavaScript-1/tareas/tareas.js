@@ -270,14 +270,6 @@ function esVocal(letra) {
   }
   return "Dato incorrecto";
 }
-//   if ((letra="a","e","i","o","u") && (letra.length===1)){
-//     return "Es vocal";
-//   }
-//   else if(letra.length != 1){
-//     return "Dato incorrecto";
-//     }
-  
-// }
 
 // --------------------------------
 // No modificar nada debajo de esta línea
